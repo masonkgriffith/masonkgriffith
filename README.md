@@ -25,7 +25,5 @@ Professional certifications I’ve earned while building my foundation in IT, ne
 ---
 
 
----
-
 ## 🌐 Connect With Me
 - https://www.linkedin.com/in/mason-griffith1/
