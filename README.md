@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Mason!
 
-<!--
-**masonkgriffith/masonkgriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support | Systems | Networking Enthusiast  
+Focused on building reliable environments, improving processes, and learning something new every day.
 
-Here are some ideas to get you started:
+Azure • M365 • Windows Server • Networking • PowerShell • Security • Virtualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Projects
+A few of the labs and tools I’ve been building to grow my skills:
+
+
+
+---
+
+## 🎓 Certifications  
+Credentials I’ve earned while advancing my IT knowledge:
+
+- [CompTIA A+](#)  
+- [CompTIA Network+](#)  
+- [CompTIA Security+](#)  
+- [Azure Administrator (AZ-104)](#)  
+- [Google IT Support Professional](#)
+
+---
+
+
+---
+
+## 🌐 Connect With Me
+- https://www.linkedin.com/in/mason-griffith1/
