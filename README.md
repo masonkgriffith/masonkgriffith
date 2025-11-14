@@ -9,7 +9,9 @@ Azure • M365 • Windows Server • Networking • PowerShell • Security •
 
 ## 🧩 Projects
 A few of the labs and tools I’ve been building to grow my skills:
-CCNA LAB: https://github.com/users/masonkgriffith/projects/3
+A collection of networking labs and tools I’m building to grow my CCNA skills.
+Check out the Medium-Size Business Network Lab here:
+https://github.com/users/masonkgriffith/projects/3
 
 
 
