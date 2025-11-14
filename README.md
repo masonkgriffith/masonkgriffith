@@ -14,14 +14,13 @@ A few of the labs and tools I’ve been building to grow my skills:
 
 ---
 
-## 🎓 Certifications  
-Credentials I’ve earned while advancing my IT knowledge:
+## 🎓 Certifications
+Professional certifications I’ve earned while building my foundation in IT, networking, and security:
 
-- [CompTIA A+](#)  
-- [CompTIA Network+](#)  
-- [CompTIA Security+](#)  
-- [Azure Administrator (AZ-104)](#)  
-- [Google IT Support Professional](#)
+![A+](https://img.shields.io/badge/CompTIA-A%2B-blue)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)
 
 ---
 
