@@ -61,3 +61,5 @@ All labs are built using a combination of:
 
 ## Personal
 https://masonkgriffith.github.io/
+https://www.linkedin.com/in/mason-griffith1/
+Mason@masonkgriffith.com
