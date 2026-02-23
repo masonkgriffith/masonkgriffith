@@ -35,6 +35,8 @@ https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Enterprise-
 ### 2. pfSense Firewall with DMZ Deployment
 Built a LAN, WAN, and DMZ architecture using pfSense. Deployed a public-facing IIS web server and configured secure NAT port forwarding and firewall rules.
 
+https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/pfSense-Firewall-DMZ-Port-Forwarding
+
 ### 3. Active Directory Hybrid Environment
 Deployed Windows Server Active Directory environment with structured OUs, Group Policy configuration, and hybrid identity integration.
 
