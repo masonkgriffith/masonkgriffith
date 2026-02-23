@@ -37,7 +37,7 @@ Built a LAN, WAN, and DMZ architecture using pfSense. Deployed a public-facing I
 
 https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/pfSense-Firewall-DMZ-Port-Forwarding
 
-### 3. Active Directory Hybrid Environment
+### 3. Active Directory Hybrid Environment (In Progress)
 Deployed Windows Server Active Directory environment with structured OUs, Group Policy configuration, and hybrid identity integration.
 
 ---
