@@ -29,6 +29,7 @@ The purpose of this portfolio is to showcase engineering-level understanding bey
 
 ### 1. Enterprise VLAN & OSPF Network
 Designed and implemented a segmented multi-VLAN network with dynamic routing and redundancy. Configured inter-VLAN routing, validated routing tables, and tested failover scenarios.
+
 https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Enterprise-VLAN-OSPF-Lab
 
 ### 2. pfSense Firewall with DMZ Deployment
