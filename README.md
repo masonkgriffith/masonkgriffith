@@ -28,14 +28,17 @@ The purpose of this portfolio is to showcase engineering-level understanding bey
 ## Featured Labs
 
 ### 1. Enterprise VLAN & OSPF Network
-Designed and implemented a segmented multi-VLAN network with dynamic routing and redundancy. Configured inter-VLAN routing, validated routing tables, and tested failover scenarios.
+Engineered a hierarchical enterprise campus network incorporating VLAN segmentation, inter-VLAN routing,
+multi-area OSPF, route summarization, and HSRP-based gateway redundancy to model production-grade internal network design.
 
-https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Enterprise-VLAN-OSPF-Lab
+https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Enterprise-Campus-Routing-Redundance-Lab
 
-### 2. pfSense Firewall with DMZ Deployment
-Built a LAN, WAN, and DMZ architecture using pfSense. Deployed a public-facing IIS web server and configured secure NAT port forwarding and firewall rules.
+### 2. Zero-Trust Enterprise Network Security Lab
+Engineered a Zero-Trust enterprise network with zone-based segmentation (User, Server, DMZ, Management),
+explicite east-west isolation, controlled HTTPS service plublishing via NAT, restricted server egress, 
+and validated containment of simulated lateral movement through logged firewall enforcement.
 
-https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/pfSense-Firewall-DMZ-Port-Forwarding
+https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Zero-Trust-Enterprise-Security-Lab
 
 ### 3. Active Directory Hybrid Environment (In Progress)
 Deployed Windows Server Active Directory environment with structured OUs, Group Policy configuration, and hybrid identity integration.
