@@ -40,9 +40,11 @@ and validated containment of simulated lateral movement through logged firewall 
 
 https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/Zero-Trust-Enterprise-Security-Lab
 
-### 3. Active Directory Hybrid Environment (In Progress)
-Deployed Windows Server Active Directory environment with structured OUs, Group Policy configuration, and hybrid identity integration.
-
+### 3. BGP-EIGRP-ISP-LAB
+Simulated a dual-AS ISP environment in GNS3 using eBGP for inter-AS routing, EIGRP 
+for internal reachability, and route-maps with prefix-lists to enforce prefix filtering 
+at the AS boundary.
+https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/BGP-EIGRP-ISP-Lab
 ---
 
 ## Skills Demonstrated
