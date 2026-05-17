@@ -4,7 +4,7 @@ Networking & Security Lab Portfolio
 
 ## Overview
 
-This repository contains hands-on networking and security labs designed to simulate real-world enterprise environments. These projects demonstrate practical implementation, troubleshooting, and infrastructure hardening across routing, switching, firewall configuration, and hybrid identity environments.
+This repository contains hands-on networking and security labs designed to simulate real-world enterprise environments. These projects demonstrate practical implementation, troubleshooting, and infrastructure hardening across routing, switching, firewall configuration, and BGP-IGP environments
 
 The purpose of this portfolio is to showcase engineering-level understanding beyond theory by building, documenting, and validating working infrastructure scenarios.
 
@@ -16,11 +16,11 @@ The purpose of this portfolio is to showcase engineering-level understanding bey
 - VLAN Segmentation
 - Inter-VLAN Routing
 - OSPF Dynamic Routing
+- EIGRP Dynamic Routing
+- BGP Neighborship Configuration
 - pfSense Firewall
 - NAT & Port Forwarding
 - DMZ Architecture
-- Windows Server & Active Directory
-- Microsoft 365 Hybrid Identity
 - VMware Virtual Lab Environments
 
 ---
@@ -68,7 +68,6 @@ All labs are built using a combination of:
 - Virtualized Windows Servers
 - pfSense Firewall
 - Cisco Networking Devices
-- Microsoft 365 Test Tenant
 
 ## Personal
 https://masonkgriffith.github.io/
