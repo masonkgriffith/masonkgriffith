@@ -45,7 +45,8 @@ Simulated a dual-AS ISP environment in GNS3 using eBGP for inter-AS routing, EIG
 for internal reachability, and route-maps with prefix-lists to enforce prefix filtering 
 at the AS boundary.
 
-https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/BGP-EIGRP-ISP-Lab
+Https://github.com/masonkgriffith/Networking-Security-Labs/tree/main/BGP-EIGRP-ISP-Lab
+
 ---
 
 ## Skills Demonstrated
